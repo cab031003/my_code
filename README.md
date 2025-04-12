@@ -43,6 +43,6 @@ python linear_vs_ridge_regression_mae.py
 
 
 五.注意事项
-(1)确保运行环境网络连接正常（首次安装库时需要下载）。
+(1)确保运行环境网络连接正常。
 (2)如果可视化图表显示异常，检查 matplotlib 配置是否正确，或尝试重新安装 matplotlib。
 (3)代码中设置了随机种子 np.random.seed(42)，确保每次运行生成的模拟数据一致，便于复现结果。
